@@ -64,7 +64,7 @@ html{
     display: flex;
     flex-direction: column;
     padding: 3px 200px;
-    height: 946px;
+    height: 571px;
     justify-content: center;
     align-items: center;
 
@@ -112,7 +112,7 @@ html{
 }
 
 #services .box img{
-    height: 285px;
+    height: 198px;
     display: block;
     margin: auto;
 }
